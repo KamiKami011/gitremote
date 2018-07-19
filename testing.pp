@@ -1,1 +1,1 @@
-notify{"testing branch":}
+notify{"testing branch, merge test":}
